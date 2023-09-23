@@ -1,0 +1,25 @@
+{
+  "name": "notion-app-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@tanstack/query-core": "^4.32.6",
+    "@tanstack/react-query": "^4.32.6",
+    "@tanstack/react-query-devtools": "^4.32.6",
+    "@tanstack/react-query-next-experimental": "^5.0.0-alpha.80",
+    "axios": "^1.4.0",
+    "mdb-react-ui-kit": "^6.2.0",
+    "next": "13.4.18",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.4",
+    "react-query": "^3.39.3"
+  }
+}
